@@ -4,11 +4,11 @@ var MODEL = (function() {
     //underscores are used to identify it easier, private for the class or file
     var _homeContent = ` <div class="hero"><img src="hero-image.png"></div>`;
 
-    var _aboutContent = ``;
+    var _aboutContent = `<h1>About Us</h1>`;
 
-    var _productsContent = ``;
+    var _productsContent = `<h1>Our Products</h1>`;
 
-    var _contactContent = ``;
+    var _contactContent = `<h1>Contact Us</h1>`;
 
 
 
