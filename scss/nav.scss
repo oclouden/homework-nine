@@ -1,0 +1,15 @@
+nav {
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;
+    
+     a {
+        color: white;
+        text-decoration: none;
+     }
+}
